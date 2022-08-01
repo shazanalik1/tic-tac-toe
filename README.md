@@ -1,8 +1,6 @@
 # Tic Tac Toe
 
-## Files, Folders and lines of Files :
-### Folders:
-1. .cpp
+## Files and lines of Files :
 
 ### Files:
 1. main.cpp
